@@ -1,5 +1,4 @@
 # attendance-management-system-using-facial-recognition
-# Student Management System with Face Recognition
 
 This project is a Student Management System that incorporates face recognition for attendance tracking and student identification. It provides a graphical user interface (GUI) built with Tkinter for easy interaction.
 
